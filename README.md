@@ -187,10 +187,17 @@ L'application :
 ---
 
 ## Captures d'écran
-<img width="507" height="819" alt="Screenshot 2026-05-19 180150" src="https://github.com/user-attachments/assets/28a90dcc-e5f1-46a3-89ca-d8500873b7d0" />
-<img width="1919" height="889" alt="Screenshot 2026-05-20 095001" src="https://github.com/user-attachments/assets/24a0267c-6542-4d42-8315-fe71771c73dc" />
-<img width="636" height="842" alt="Screenshot 2026-05-20 095716" src="https://github.com/user-attachments/assets/063f0df1-1e5f-41fe-bdca-1aa1e4751ef2" />
-<img width="1919" height="959" alt="Screenshot 2026-05-20 095737" src="https://github.com/user-attachments/assets/1477166d-48a1-4e91-8cd2-2e1f47053d98" />
+<p align="center">
+ <img width="507" height="819" alt="Screenshot 2026-05-19 180150" src="https://github.com/user-attachments/assets/28a90dcc-e5f1-46a3-89ca-d8500873b7d0" />
+ <img width="1919" height="889" alt="Screenshot 2026-05-20 095001" src="https://github.com/user-attachments/assets/24a0267c-6542-4d42-8315-fe71771c73dc" />  
+</p>
+
+<p align="center">
+ <img width="636" height="842" alt="Screenshot 2026-05-20 095716" src="https://github.com/user-attachments/assets/063f0df1-1e5f-41fe-bdca-1aa1e4751ef2" />
+ <img width="1919" height="959" alt="Screenshot 2026-05-20 095737" src="https://github.com/user-attachments/assets/1477166d-48a1-4e91-8cd2-2e1f47053d98" />
+</p>
+
+
 
 
 ---
